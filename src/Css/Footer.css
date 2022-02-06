@@ -1,0 +1,10 @@
+.Footer {
+    position:absolute;
+    bottom:0;
+    background:#6cf;
+    border-radius: 10px;
+    width: 100%;
+}
+.text {
+    margin-left: 50px;
+}
